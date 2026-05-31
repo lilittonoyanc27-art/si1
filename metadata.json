@@ -1,0 +1,6 @@
+{
+  "name": "Իսպաներեն A1 Դասեր & Խաղեր",
+  "description": "Իսպաներենի քերականության հիմնական կանոնները (A1) և 6 ինտերակտիվ խաղեր սովորածը ստուգելու համար",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
